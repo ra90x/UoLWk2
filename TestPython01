@@ -1,6 +1,6 @@
 a = 3
 b = 4
-c = 8
+c = 6
 
 # Arithmetic Operators
 print("The value of 3+4 is ", 3+4)
